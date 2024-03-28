@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋, I'm Moustik</h1>
-<h3 align="center">A student of 42</h3>
+<h3 align="center">A student of the university 42</h3>
 
 - 🔭 I’m currently working in **42 Madrid**
 
