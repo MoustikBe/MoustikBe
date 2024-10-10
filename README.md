@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently studying in **42 Madrid**
 
-- 🌱 I will try to keep that page **update !**
+- 🌱 I will try to keep that page **updated !**
 
 - 📝 I'm actually trying **to follow the 42 cursus**
 
-- 🤝 You can find here all the project that I made **for the moment**
+- 🤝 You can find here all the projects that I made **for the moment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
